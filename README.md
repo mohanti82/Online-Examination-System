@@ -4,7 +4,7 @@ ONLINE EXAMINATION
 
 The project should be capable of the following functionalities.
 
- 1) Login
+1)Login
 
 2)Update Profile and Password
 
